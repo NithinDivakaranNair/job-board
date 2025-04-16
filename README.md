@@ -123,10 +123,7 @@ npx tailwindcss init -p
   </code></pre>
 
  
-
-  <h2> Author</h2>
-  <p>Built with by <strong>Your Name</strong></p>
-  <p>GitHub: <a href="https://github.com/your-username" target="_blank">https://github.com/your-username</a></p>
+  <p>GitHub: <a href="https://github.com/NithinDivakaranNair/job-board.git" target="_blank">https://github.com/NithinDivakaranNair/job-board.git</a></p>
 
 </body>
 </html>
